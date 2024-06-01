@@ -45,8 +45,7 @@ if(isset($_POST['add_to_cart'])){
    <title>Products</title>
 
    <!-- Font Awesome CDN link -->
-   <link href="https://db.onlinewebfonts.com/c/11eae19d5201ee5e6b1c2ae903ff4ea6?family=Metal+Vengeance" rel="stylesheet">
-   
+<link href="https://db.onlinewebfonts.com/c/11eae19d5201ee5e6b1c2ae903ff4ea6?family=Metal+Vengeance" rel="stylesheet">
    <!-- Custom CSS file link -->
    <link rel="stylesheet" href="css/nav_user.css">
 </head>
